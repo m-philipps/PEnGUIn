@@ -10,3 +10,6 @@ visualization of linked information (e.g. starting from experimental condition)
 
 2. Interactive Extension  
 Modifying tables via GUI; creating a PEtab problem from GUI
+
+## Visualization UI Draft:
+![Visualization](1stVersion_Vis.png)
