@@ -12,5 +12,5 @@ visualization of linked information (e.g. starting from experimental condition)
 Modifying tables via GUI; creating a PEtab problem from GUI
 
 ## Visualization UI Draft:
-<img src="1stVersion_Vis.png" alt="User-Interface Draft" style="height: 400px; width:400px;"/>
+<img src="1stVersion_Vis.png" alt="User-Interface Draft" style="height: 400px; width:500px;"/>
 
