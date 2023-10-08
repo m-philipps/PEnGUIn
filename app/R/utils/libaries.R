@@ -1,0 +1,6 @@
+library(shiny)
+library(DT)
+library(shinyFiles)
+library(XML)
+library(reticulate)
+reticulate::source_python("app/python/convert_sbml_str.py")
