@@ -8,7 +8,7 @@
   # If first time you need to install them
   # either with install.packages("[package_name]")
 
-  source("R/utils/libaries.R")
+  source("app/R/utils/libaries.R")
 
   # to run app
   # make sure you are in PenGUIn directory where the 'app' directory is included
