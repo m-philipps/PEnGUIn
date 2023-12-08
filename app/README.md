@@ -1,7 +1,27 @@
 # Instructions
+
+## Python
+- make sure that Python is installed
+- create a python virtual environment
+  ```sh
+  python -m venv pyvenv_penguin
+  ```
+- activate the virtual environment
+  ```sh
+  source pyvenv_penguin/bin/activate
+  ```
+  (and later deactivate it with `deactivate`)
+- install `tellurium`
+  ```sh
+  pip install tellurium
+  pip install python-libsbml
+  ```
+
+
+## R
 - install R according to the internet
 
-- then open R
+- then open R (with active python environment)
   ```{r}
   setwd("PEnGUIn")
   # loads all the packages, if they are already installed
