@@ -14,7 +14,6 @@
 - install `tellurium`
   ```sh
   pip install tellurium
-  pip install python-libsbml
   ```
 
 
