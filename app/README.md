@@ -7,6 +7,7 @@
   # loads all the packages, if they are already installed
   # If first time you need to install them
   # either with install.packages("[package_name]")
+  # for multiple: install.packages(c("[package_name]","[package_name]","[package_name]"))
 
   source("app/R/utils/libaries.R")
 
