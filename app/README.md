@@ -13,6 +13,7 @@
   (and later deactivate it with `deactivate`)
 - install `tellurium`
   ```sh
+  pip install python-libsbml
   pip install tellurium
   ```
 
